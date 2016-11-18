@@ -17,73 +17,72 @@ categories: jekyll
 - Who  
 已注册用户可以使用该功能
 
-- When
+- When  
 当注册用户想邀请其他人来平台注册时
 
-- Where
+- Where  
 处于已登录状态的用户,前往带有生成邀请码功能的页面使用该功能
 
-- What happen
+- What happen  
 
-- How
+- How  
 在用户的个人中心中进行查看个人的邀请码，开始每个用户可以生成2个邀请码，随着用户使用情况，再调整邀请码的个数
-- Experience
-
+- Experience  
 
 ### 场景二：变更邀请人
-- Why
+- Why  
 用户可以变更与他人的邀请关系,用户期望可以完成变更与他人的关系
 
-- Who
+- Who  
 已注册用户可以使用该功能
 
-- When
+- When  
 当注册用户想变更与他人的直接关系时
 
-- Where
+- Where  
 处于已登录状态的用户,前往带有变更用户关系的页面使用该功能
 
-- What happen
+- What happen  
 
-- How
+- How  
 方式一：用户可以把一个不在直接关系用户添加到直接关系(需要对方确认)
     举例：被邀请人作为平台用户，不想在当前邀请人名下，主动向平台某用户A进行申请，发送请求，要求成为其下面的用户B，用户A同意，则用户B直接成为用户A邀请的用户。
 方式二：用户A主动向用户B发送邀请码，则用户B变更到用户A名下
 
-- Experience
+- Experience  
 
 ### 场景三：购买优惠券
-- Why
+- Why  
 用户可以购买优惠券,用户期望成功购买想要的优惠券并且是真实可用的
 
-- Who
+- Who  
 已注册用户可以使用该功能
 
-- When
+- When  
 当注册用户想要购买优惠券时
 
-- Where
+- Where  
 
-- What happen
+- What happen  
 
-- How
+- How  
 
-- Experience
+- Experience  
 
 ### 场景四：退货
-- Why
+- Why  
 
-- Who
+- Who  
 
-- When
+- When  
 
-- Where
+- Where  
 
-- What happen
+- What happen  
 
-- How
+- How  
 
-- Experience
+- Experience  
 
 ### 场景五：纠纷
 - 前提  
